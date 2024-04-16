@@ -1,0 +1,23 @@
+{
+  "name": "c",
+  "version": "1.0.0",
+  "description": "c",
+  "main": "index.js",
+  "scripts": {
+    "test": "1234"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BILLINGEVA/B-cher_-bung.git"
+  },
+  "author": "Eva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BILLINGEVA/B-cher_-bung/issues"
+  },
+  "homepage": "https://github.com/BILLINGEVA/B-cher_-bung#readme",
+  "dependencies": {
+    "@types/node": "^20.12.7",
+    "express": "^4.19.2"
+  }
+}
